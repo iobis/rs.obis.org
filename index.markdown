@@ -2,5 +2,5 @@
 layout: base
 ---
 
-[http://rs.obis.org/obis/terms](/obis/terms)
+[http://rs.iobis.org/obis/terms](/obis/terms)
 
